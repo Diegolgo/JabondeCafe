@@ -287,6 +287,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.align-just {
+		text-align: justify;
+	}
+
+
+
 	input, select, textarea {
 		color: #212931;
 	}
@@ -3793,7 +3799,7 @@ input, select, textarea {
 			}
 
 			#main > .post.featured {
-				text-align: center;
+				text-align: justify;
 			}
 
 			@media screen and (max-width: 1280px) {
